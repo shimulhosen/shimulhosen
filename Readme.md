@@ -23,9 +23,16 @@ Passionate about solving problems and launching new projects.
 
 ## 📊 GitHub Stats
 
-![Shimul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shimulhosen&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shimulhosen&layout=compact&theme=radical)
+<div align="center">
+  <a href="https://github.com/shimulhosen">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=shimulhosen&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shimulhosen&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shimul's GitHub Stats" height="150" />
+  </a>
+  <br />
+  <a href="https://github.com/shimulhosen">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimulhosen&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" height="150" />
+  </a>
+</div>
 
 ---
 
