@@ -52,9 +52,9 @@ Passionate about solving problems and launching new projects.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![IIS](https://img.shields.io/badge/-IIS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Plesk](https://img.shields.io/badge/-Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
 
