@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Shimul Hosen!
+#Hello, I'm Shimul Hosen!
 
 ## 🧑‍💻 Junior Software Engineer
 
