@@ -1,6 +1,6 @@
 # Hello, I'm Shimul Hosen!
 
-## Junior Software Engineer
+## Software Engineer
 
 Junior Software Engineer at Bangladesh Unique Technology Services (BUTSBD). Proficient in:
 
