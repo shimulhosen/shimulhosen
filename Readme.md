@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-Junior Software Engineer at Bangladesh Unique Technology Services (BUTSBD). Proficient in:
+Software Engineer at Bangladesh Unique Technology Services (BUTSBD). Proficient in:
 
 - **Programming Languages**: C, C++, C#
 - **Frameworks & Libraries**: .Net Core, React JS, Angular
